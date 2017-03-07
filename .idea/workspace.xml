@@ -1,0 +1,1254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c7d7e7d5-b00b-41b7-9c75-314aad3a69ae" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/.bundle/" />
+    <ignored path="$PROJECT_DIR$/components/" />
+    <ignored path="$PROJECT_DIR$/public/system/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <ignored path="$PROJECT_DIR$/vendor/bundle/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <splitter split-orientation="horizontal" split-proportion="0.5">
+      <split-first>
+        <splitter split-orientation="vertical" split-proportion="0.5">
+          <split-first>
+            <leaf>
+              <file leaf-file-name="users_controller.rb" pinned="false" current-in-tab="true">
+                <entry file="file://$PROJECT_DIR$/app/controllers/users_controller.rb">
+                  <provider selected="true" editor-type-id="text-editor">
+                    <state relative-caret-position="320">
+                      <caret line="37" column="6" lean-forward="false" selection-start-line="37" selection-start-column="6" selection-end-line="37" selection-end-column="58" />
+                      <folding />
+                    </state>
+                  </provider>
+                </entry>
+              </file>
+            </leaf>
+          </split-first>
+          <split-second>
+            <leaf>
+              <file leaf-file-name="usersignup_serializer.rb" pinned="false" current-in-tab="true">
+                <entry file="file://$PROJECT_DIR$/app/serializers/usersignup_serializer.rb">
+                  <provider selected="true" editor-type-id="text-editor">
+                    <state relative-caret-position="30">
+                      <caret line="2" column="3" lean-forward="true" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
+                      <folding />
+                    </state>
+                  </provider>
+                </entry>
+              </file>
+            </leaf>
+          </split-second>
+        </splitter>
+      </split-first>
+      <split-second>
+        <splitter split-orientation="vertical" split-proportion="0.5">
+          <split-first>
+            <leaf>
+              <file leaf-file-name="application_controller.rb" pinned="false" current-in-tab="true">
+                <entry file="file://$PROJECT_DIR$/app/controllers/application_controller.rb">
+                  <provider selected="true" editor-type-id="text-editor">
+                    <state relative-caret-position="360">
+                      <caret line="24" column="5" lean-forward="true" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+                      <folding />
+                    </state>
+                  </provider>
+                </entry>
+              </file>
+            </leaf>
+          </split-first>
+          <split-second>
+            <leaf>
+              <file leaf-file-name="user_serializer.rb" pinned="false" current-in-tab="true">
+                <entry file="file://$PROJECT_DIR$/app/serializers/user_serializer.rb">
+                  <provider selected="true" editor-type-id="text-editor">
+                    <state relative-caret-position="60">
+                      <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+                      <folding />
+                    </state>
+                  </provider>
+                </entry>
+              </file>
+            </leaf>
+          </split-second>
+        </splitter>
+      </split-second>
+    </splitter>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>filter</find>
+      <find>bef</find>
+      <find>before</find>
+      <find>before_</find>
+      <find>before_c</find>
+      <find>before_create</find>
+      <find>au</find>
+      <find>auth</find>
+      <find>auth_</find>
+      <find>auth_tok</find>
+      <find>auth_token</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/app/models/user.rb" />
+        <option value="$PROJECT_DIR$/app/serializers/comment_serializer.rb" />
+        <option value="$PROJECT_DIR$/app/controllers/application_controller.rb" />
+        <option value="$PROJECT_DIR$/config/routes.rb" />
+        <option value="$PROJECT_DIR$/app/serializers/user_signup_serializer.rb" />
+        <option value="$PROJECT_DIR$/app/serializers/user_serializer.rb" />
+        <option value="$PROJECT_DIR$/Gemfile" />
+        <option value="$PROJECT_DIR$/app/controllers/users_controller.rb" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1680" />
+    <option name="height" value="1023" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="RailsProjectView" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="my_blog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="my_blog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="my_blog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="my_blog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="db" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="my_blog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="my_blog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="db" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="migrate" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="my_blog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="my_blog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="config" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="my_blog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="my_blog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="my_blog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="my_blog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="serializers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="my_blog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="my_blog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="models" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="my_blog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="my_blog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="controllers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="SearchEverywhereHistoryKey" value="user&#9;FILE&#9;file:///Users/bjl/Documents/Programming/rails/my_blog/app/serializers/user_serializer.rb&#10;config/app&#9;FILE&#9;file:///Users/bjl/Documents/Programming/rails/my_blog/config/application.rb&#10;model/user&#9;FILE&#9;file:///Users/bjl/Documents/Programming/rails/my_blog/app/models/user.rb&#10;rout&#9;FILE&#9;file:///Users/bjl/Documents/Programming/rails/my_blog/config/routes.rb&#10;routes&#9;FILE&#9;file:///Users/bjl/Documents/Programming/rails/my_blog/config/routes.rb&#10;user_con&#9;FILE&#9;file:///Users/bjl/Documents/Programming/rails/my_blog/app/controllers/users_controller.rb&#10;ser&#9;FILE&#9;file:///Users/bjl/Documents/Programming/rails/my_blog/app/serializers/user_serializer.rb&#10;app&#9;FILE&#9;file:///Users/bjl/Documents/Programming/rails/my_blog/app/controllers/application_controller.rb&#10;models/user&#9;FILE&#9;file:///Users/bjl/Documents/Programming/rails/my_blog/app/models/user.rb&#10;control&#9;FILE&#9;file:///Users/bjl/Documents/Programming/rails/my_blog/app/controllers/application_controller.rb&#10;seria&#9;FILE&#9;file:///Users/bjl/Documents/Programming/rails/my_blog/app/serializers/user_serializer.rb&#10;seri&#9;FILE&#9;file:///Users/bjl/Documents/Programming/rails/my_blog/app/serializers/user_serializer.rb&#10;application_contro&#9;FILE&#9;file:///Users/bjl/Documents/Programming/rails/my_blog/app/controllers/application_controller.rb&#10;user.rb&#9;FILE&#9;file:///Users/bjl/Documents/Programming/rails/my_blog/app/models/user.rb&#10;models/&#9;FILE&#9;file:///Users/bjl/Documents/Programming/rails/my_blog/app/models&#10;console&#9;ACTION&#9;IdeScriptingConsole&#10;appl&#9;FILE&#9;file:///Users/bjl/Documents/Programming/rails/my_blog/app/controllers/application_controller.rb&#10;test/&#9;FILE&#9;file:///Users/bjl/Documents/Programming/rails/my_blog/config/environments/test.rb&#10;applic&#9;FILE&#9;file:///Users/bjl/Documents/Programming/rails/my_blog/app/controllers/application_controller.rb&#10;routes.&#9;FILE&#9;file:///Users/bjl/Documents/Programming/rails/my_blog/config/routes.rb" />
+    <property name="node.js.path.for.package.jscs" value="project" />
+    <property name="node.js.selected.package.jscs" value="" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/serializers" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Rails.Development: my_blog">
+    <configuration default="true" type="CucumberRunConfigurationType" factoryName="Cucumber">
+      <predefined_log_file id="RUBY_CUCUMBER" enabled="true" />
+      <module name="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*.feature" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TAGS_FILTER" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_NAME_FILTER" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_ARGS" VALUE="--color -r features" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="VERBOSE_OPTION" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_RUNNER_PATH" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_RUNNER" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SETTINGS_VERSION" VALUE="2" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="RailsRunConfigurationType" factoryName="Rails">
+      <predefined_log_file id="RUBY_RAILS_SERVER" enabled="true" />
+      <module name="" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="SCRIPT_ARGS" VALUE="" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="PORT" VALUE="3000" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="IP" VALUE="0.0.0.0" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="DUMMY_APP" VALUE="test/dummy" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="RAILS_SERVER_TYPE" VALUE="Default" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="ENVIRONMENT_TYPE" VALUE="development" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="LAUNCH_JS" VALUE="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="RakeRunConfigurationType" factoryName="Rake">
+      <module name="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_NAME" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_ARGS" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_ATTACHED_TEST_FRAMEWORKS" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_TRACE" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_DRYRUN" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_PREREQS" VALUE="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="RubyRunConfigurationType" factoryName="Ruby">
+      <module name="" />
+      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestUnitRunConfigurationType" factoryName="Test::Unit/Shoulda/Minitest">
+      <predefined_log_file id="RUBY_TESTUNIT" enabled="true" />
+      <module name="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_METHOD_NAME" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_OPTIONS" VALUE="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <list size="4">
+      <item index="0" class="java.lang.String" itemvalue="Rake.test: my_blog" />
+      <item index="1" class="java.lang.String" itemvalue="Rake.spec: my_blog" />
+      <item index="2" class="java.lang.String" itemvalue="Rails.Production: my_blog" />
+      <item index="3" class="java.lang.String" itemvalue="Rails.Development: my_blog" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SpringUtil" SPRING_PRE_LOADER_OPTION="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c7d7e7d5-b00b-41b7-9c75-314aad3a69ae" name="Default" comment="" />
+      <created>1488557503652</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1488557503652</updated>
+      <workItem from="1488557505892" duration="919000" />
+      <workItem from="1488570537452" duration="18627000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="19546000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1680" height="1023" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15773809" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32959184" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20326865" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32978722" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/controllers/users_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/actionpack-5.0.2/lib/action_dispatch/journey/routes.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="10" lean-forward="false" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/environments/test.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="48" lean-forward="true" selection-start-line="25" selection-start-column="48" selection-end-line="25" selection-end-column="48" />
+          <folding>
+            <marker date="1488519209000" expanded="true" signature="28:1747" ph="do ... end" />
+            <marker date="1488519209000" expanded="true" signature="33:401" ph="do ... end" />
+            <marker date="1488519209000" expanded="true" signature="435:661" ph="##..." />
+            <marker date="1488519209000" expanded="true" signature="1338:1501" ph="##..." />
+            <marker date="1488519209000" expanded="true" signature="1644:1743" ph="do ... end" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/ide/ide-scripting.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/securerandom.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="326">
+          <caret line="49" column="7" lean-forward="false" selection-start-line="49" selection-start-column="7" selection-end-line="49" selection-end-column="7" />
+          <folding>
+            <marker date="1461339027000" expanded="true" signature="0:56" ph="##..." />
+            <marker date="1461339027000" expanded="true" signature="57:103" ph="begin ... end" />
+            <marker date="1461339027000" expanded="true" signature="105:1277" ph="##..." />
+            <marker date="1461339027000" expanded="true" signature="1298:2153" ph=" ... end" />
+            <marker date="1461339027000" expanded="true" signature="1301:2149" ph="if ... end" />
+            <marker date="1461339027000" expanded="true" signature="1390:1825" ph=" ... end" />
+            <marker date="1461339027000" expanded="true" signature="1449:1772" ph="unless ... end" />
+            <marker date="1461339027000" expanded="true" signature="1675:1743" ph="if ... end" />
+            <marker date="1461339027000" expanded="true" signature="1859:2143" ph=" ... end" />
+            <marker date="1461339027000" expanded="true" signature="1897:1971" ph="unless ... end" />
+            <marker date="1461339027000" expanded="true" signature="1978:2125" ph="unless ... end" />
+            <marker date="1461339027000" expanded="true" signature="2179:7628" ph=" ... end" />
+            <marker date="1461339027000" expanded="true" signature="2183:2734" ph="##..." />
+            <marker date="1461339027000" expanded="true" signature="2760:2810" ph=" ... end" />
+            <marker date="1461339027000" expanded="true" signature="2814:3403" ph="##..." />
+            <marker date="1461339027000" expanded="true" signature="3420:3462" ph=" ... end" />
+            <marker date="1461339027000" expanded="true" signature="3466:4103" ph="##..." />
+            <marker date="1461339027000" expanded="true" signature="4123:4175" ph=" ... end" />
+            <marker date="1461339027000" expanded="true" signature="4179:5288" ph="##..." />
+            <marker date="1461339027000" expanded="true" signature="5331:5456" ph=" ... end" />
+            <marker date="1461339027000" expanded="true" signature="5458:6829" ph="=begin ... =end" />
+            <marker date="1461339027000" expanded="true" signature="6833:7387" ph="##..." />
+            <marker date="1461339027000" expanded="true" signature="7398:7569" ph=" ... end" />
+            <marker date="1461339027000" expanded="true" signature="7600:7624" ph=" ... end" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/activesupport-5.0.2/lib/active_support/core_ext/securerandom.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="7" lean-forward="false" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+          <folding>
+            <marker date="1488557713000" expanded="true" signature="43:786" ph=" ... end" />
+            <marker date="1488557713000" expanded="true" signature="142:572" ph="##..." />
+            <marker date="1488557713000" expanded="true" signature="598:782" ph=" ... end" />
+            <marker date="1488557713000" expanded="true" signature="649:771" ph="do ... end" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/serializers/comment_serializer.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="16" lean-forward="true" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
+          <folding>
+            <marker date="1488578828000" expanded="true" signature="23:70" ph=" ... end" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/seeds.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1488519535000" expanded="true" signature="0:369" ph="##..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/schema.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1488522109000" expanded="true" signature="0:721" ph="##..." />
+            <marker date="1488522109000" expanded="true" signature="776:1587" ph="do ... end" />
+            <marker date="1488522109000" expanded="true" signature="823:1107" ph="do ... end" />
+            <marker date="1488522109000" expanded="true" signature="1149:1369" ph="do ... end" />
+            <marker date="1488522109000" expanded="true" signature="1411:1582" ph="do ... end" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/migrate/20170303053609_create_comments.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1488519369000" expanded="true" signature="20:243" ph=" ... end" />
+            <marker date="1488519369000" expanded="true" signature="64:239" ph=" ... end" />
+            <marker date="1488519369000" expanded="true" signature="92:233" ph="do ... end" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/migrate/20170303053542_create_posts.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding>
+            <marker date="1488519342000" expanded="true" signature="17:215" ph=" ... end" />
+            <marker date="1488519342000" expanded="true" signature="61:211" ph=" ... end" />
+            <marker date="1488519342000" expanded="true" signature="86:205" ph="do ... end" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/actionpack-5.0.2/lib/abstract_controller/callbacks.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="23" column="11" lean-forward="false" selection-start-line="23" selection-start-column="11" selection-end-line="23" selection-end-column="11" />
+          <folding>
+            <marker date="1488557719000" expanded="true" signature="25:8814" ph=" ... end" />
+            <marker date="1488557719000" expanded="true" signature="44:8810" ph=" ... end" />
+            <marker date="1488557719000" expanded="true" signature="84:254" ph="##..." />
+            <marker date="1488557719000" expanded="true" signature="306:561" ph="do ... end" />
+            <marker date="1488557719000" expanded="true" signature="414:488" ph="{ ... }" />
+            <marker date="1488557719000" expanded="true" signature="567:689" ph="##..." />
+            <marker date="1488557719000" expanded="true" signature="719:791" ph=" ... end" />
+            <marker date="1488557719000" expanded="true" signature="757:783" ph="do ... end" />
+            <marker date="1488557719000" expanded="true" signature="816:8804" ph=" ... end" />
+            <marker date="1488557719000" expanded="true" signature="823:1690" ph="##..." />
+            <marker date="1488557719000" expanded="true" signature="1737:1865" ph=" ... end" />
+            <marker date="1488557719000" expanded="true" signature="1922:2150" ph=" ... end" />
+            <marker date="1488557719000" expanded="true" signature="1941:2140" ph="if ... end" />
+            <marker date="1488557719000" expanded="true" signature="2036:2071" ph="{ ... }" />
+            <marker date="1488557719000" expanded="true" signature="2158:2517" ph="##..." />
+            <marker date="1488557719000" expanded="true" signature="2556:2906" ph=" ... end" />
+            <marker date="1488557719000" expanded="true" signature="2937:3271" ph=" ... end" />
+            <marker date="1488557719000" expanded="true" signature="3279:3888" ph="##..." />
+            <marker date="1488557719000" expanded="true" signature="3940:4162" ph=" ... end" />
+            <marker date="1488557719000" expanded="true" signature="4093:4152" ph="do ... end" />
+            <marker date="1488557719000" expanded="true" signature="4170:6664" ph="##..." />
+            <marker date="1488557719000" expanded="true" signature="6703:8796" ph="do ... end" />
+            <marker date="1488557719000" expanded="true" signature="6760:6929" ph="do ... end" />
+            <marker date="1488557719000" expanded="true" signature="6818:6917" ph="do ... end" />
+            <marker date="1488557719000" expanded="true" signature="6974:7198" ph="do ... end" />
+            <marker date="1488557719000" expanded="true" signature="7251:7444" ph="do ... end" />
+            <marker date="1488557719000" expanded="true" signature="7309:7432" ph="do ... end" />
+            <marker date="1488557719000" expanded="true" signature="7497:7745" ph="do ... end" />
+            <marker date="1488557719000" expanded="true" signature="7755:7868" ph="##..." />
+            <marker date="1488557719000" expanded="true" signature="7917:8076" ph="do ... end" />
+            <marker date="1488557719000" expanded="true" signature="7964:8064" ph="do ... end" />
+            <marker date="1488557719000" expanded="true" signature="8126:8365" ph="do ... end" />
+            <marker date="1488557719000" expanded="true" signature="8541:8786" ph="do ... end" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/activerecord-5.0.2/lib/active_record/suppressor.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="585">
+          <caret line="39" column="8" lean-forward="false" selection-start-line="39" selection-start-column="8" selection-end-line="39" selection-end-column="8" />
+          <folding>
+            <marker date="1488557717000" expanded="true" signature="19:1669" ph=" ... end" />
+            <marker date="1488557717000" expanded="true" signature="22:1030" ph="##..." />
+            <marker date="1488557717000" expanded="true" signature="1050:1497" ph=" ... end" />
+            <marker date="1488557717000" expanded="true" signature="1109:1284" ph=" ... end" />
+            <marker date="1488557717000" expanded="true" signature="1136:1276" ph=" ... end" />
+            <marker date="1488557717000" expanded="true" signature="1301:1387" ph=" ... end" />
+            <marker date="1488557717000" expanded="true" signature="1405:1491" ph=" ... end" />
+            <marker date="1488557717000" expanded="true" signature="1525:1665" ph=" ... end" />
+            <marker date="1488557717000" expanded="true" signature="1628:1659" ph=" ... end" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/actionpack-5.0.2/lib/action_dispatch/routing/mapper.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="686" column="12" lean-forward="false" selection-start-line="686" selection-start-column="12" selection-end-line="686" selection-end-column="12" />
+          <folding>
+            <marker date="1488557719000" expanded="true" signature="298:73379" ph=" ... end" />
+            <marker date="1488557719000" expanded="true" signature="315:73375" ph=" ... end" />
+            <marker date="1488557719000" expanded="true" signature="332:73369" ph=" ... end" />
+            <marker date="1488557719000" expanded="true" signature="424:1803" ph=" ... end" />
+            <marker date="1488557719000" expanded="true" signature="523:540" ph="{ ... }" />
+            <marker date="1488557719000" expanded="true" signature="570:590" ph="{ ... }" />
+            <marker date="1488557719000" expanded="true" signature="642:1155" ph=" ... end" />
+            <marker date="1488557719000" expanded="true" signature="653:943" ph="##..." />
+            <marker date="1488557719000" expanded="true" signature="954:1061" ph="if ... end" />
+            <marker date="1488557719000" expanded="true" signature="1180:1205" ph=" ... end" />
+            <marker date="1488557719000" expanded="true" signature="1232:1481" ph=" ... end" />
+            <marker date="1488557719000" expanded="true" signature="1261:1469" ph="do ... end" />
+            <marker date="1488557719000" expanded="true" signature="1505:1628" ph=" ... end" />
+            <marker date="1488557719000" expanded="true" signature="1696:1793" ph=" ... end" />
+            <marker date="1488557719000" expanded="true" signature="1824:13629" ph=" ... end" />
+            <marker date="1488557719000" expanded="true" signature="2177:2543" ph=" ... end" />
+            <marker date="1488557719000" expanded="true" signature="2576:3095" ph=" ... end" />
+            <marker date="1488557719000" expanded="true" signature="2587:3069" ph="if ... end" />
+            <marker date="1488557719000" expanded="true" signature="3142:3383" ph=" ... end" />
+            <marker date="1488557719000" expanded="true" signature="3199:3371" ph="if ... end" />
+            <marker date="1488557719000" expanded="true" signature="3432:3523" ph=" ... end" />
+            <marker date="1488557719000" expanded="true" signature="3690:5426" ph=" ... end" />
+            <marker date="1488557719000" expanded="true" signature="4394:4780" ph="if ... end" />
+            <marker date="1488557719000" expanded="true" signature="4487:4604" ph="{ ... }" />
+            <marker date="1488557719000" expanded="true" signature="5206:5327" ph="if ... end" />
+            <marker date="1488557719000" expanded="true" signature="5468:5863" ph=" ... end" />
+            <marker date="1488557719000" expanded="true" signature="5888:5923" ph=" ... end" />
+            <marker date="1488557719000" expanded="true" signature="5941:6002" ph=" ... end" />
+            <marker date="1488557719000" expanded="true" signature="6026:6097" ph=" ... end" />
+            <marker date="1488557719000" expanded="true" signature="6162:6326" ph=" ... end" />
+            <marker date="1488557719000" expanded="true" signature="6239:6314" ph="do ... end" />
+            <marker date="1488557719000" expanded="true" signature="6388:6458" ph=" ... end" />
+            <marker date="1488557719000" expanded="true" signature="6408:6446" ph="{ ... }" />
+            <marker date="1488557719000" expanded="true" signature="6596:7546" ph=" ... end" />
+            <marker date="1488557719000" expanded="true" signature="6701:6852" ph="##..." />
+            <marker date="1488557719000" expanded="true" signature="6876:7515" ph="{ ... }" />
+            <marker date="1488557719000" expanded="true" signature="6932:7391" ph="if ... end" />
+            <marker date="1488557719000" expanded="true" signature="7405:7503" ph="if ... end" />
+            <marker date="1488557719000" expanded="true" signature="7656:8069" ph=" ... end" />
+            <marker date="1488557719000" expanded="true" signature="7669:7801" ph="##..." />
+            <marker date="1488557719000" expanded="true" signature="7814:8055" ph="if ... end" />
+            <marker date="1488557719000" expanded="true" signature="7907:7986" ph="{ ... }" />
+            <marker date="1488557719000" expanded="true" signature="8135:9098" ph=" ... end" />
+            <marker date="1488557719000" expanded="true" signature="8148:8663" ph="if ... end" />
+            <marker date="1488557719000" expanded="true" signature="8309:8602" ph="##..." />
+            <marker date="1488557719000" expanded="true" signature="8677:9084" ph="if ... end" />
+            <marker date="1488557719000" expanded="true" signature="9157:9305" ph=" ... end" />
+            <marker date="1488557719000" expanded="true" signature="9192:9291" ph="do ... end" />
+            <marker date="1488557719000" expanded="true" signature="9348:9850" ph=" ... end" />
+            <marker date="1488557719000" expanded="true" signature="9361:9836" ph="case ... end" />
+            <marker date="1488557719000" expanded="true" signature="9906:10377" ph=" ... end" />
+            <marker date="1488557719000" expanded="true" signature="9937:10363" ph="do ... end" />
+            <marker date="1488557719000" expanded="true" signature="9968:10162" ph="if ... end" />
+            <marker date="1488557719000" expanded="true" signature="10178:10347" ph="if ... end" />
+            <marker date="1488557719000" expanded="true" signature="10420:10503" ph=" ... end" />
+            <marker date="1488557719000" expanded="true" signature="10453:10488" ph="{ ... }" />
+            <marker date="1488557719000" expanded="true" signature="10530:11023" ph=" ... end" />
+            <marker date="1488557719000" expanded="true" signature="10543:11009" ph="if ... end" />
+            <marker date="1488557719000" expanded="true" signature="10682:10993" ph="if ... end" />
+            <marker date="1488557719000" expanded="true" signature="11099:11678" ph=" ... end" />
+            <marker date="1488557719000" expanded="true" signature="11172:11529" ph="do ... end" />
+            <marker date="1488557719000" expanded="true" signature="11223:11513" ph="{ ... }" />
+            <marker date="1488557719000" expanded="true" signature="11590:11664" ph="{ ... }" />
+            <marker date="1488557719000" expanded="true" signature="11735:12066" ph=" ... end" />
+            <marker date="1488557719000" expanded="true" signature="11748:12035" ph="if ... end" />
+            <marker date="1488557719000" expanded="true" signature="11826:12019" ph="unless ... end" />
+            <marker date="1488557719000" expanded="true" signature="12094:12211" ph=" ... end" />
+            <marker date="1488557719000" expanded="true" signature="12107:12197" ph="if ... end" />
+            <marker date="1488557719000" expanded="true" signature="12270:12562" ph=" ... end" />
+            <marker date="1488557719000" expanded="true" signature="12283:12548" ph="if ... end" />
+            <marker date="1488557719000" expanded="true" signature="12338:12490" ph="if ... end" />
+            <marker date="1488557719000" expanded="true" signature="12610:12778" ph=" ... end" />
+            <marker date="1488557719000" expanded="true" signature="12821:13112" ph=" ... end" />
+            <marker date="1488557719000" expanded="true" signature="12834:13064" ph="unless ... end" />
+            <marker date="1488557719000" expanded="true" signature="13161:13492" ph=" ... end" />
+            <marker date="1488557719000" expanded="true" signature="13191:13478" ph="do ... end" />
+            <marker date="1488557719000" expanded="true" signature="13222:13462" ph="if ... end" />
+            <marker date="1488557719000" expanded="true" signature="13307:13444" ph="if ... end" />
+            <marker date="1488557719000" expanded="true" signature="13539:13619" ph=" ... end" />
+            <marker date="1488557719000" expanded="true" signature="13637:13828" ph="##..." />
+            <marker date="1488557719000" expanded="true" signature="13864:14019" ph=" ... end" />
+            <marker date="1488557719000" expanded="true" signature="14056:14115" ph=" ... end" />
+            <marker date="1488557719000" expanded="true" signature="14134:24449" ph=" ... end" />
+            <marker date="1488557719000" expanded="true" signature="14143:20863" ph="##..." />
+            <marker date="1488557719000" expanded="true" signature="20900:20912" ph=" ... end" />
+            <marker date="1488557719000" expanded="true" signature="20922:21742" ph="##..." />
+            <marker date="1488557719000" expanded="true" signature="21780:22721" ph=" ... end" />
+            <marker date="1488557719000" expanded="true" signature="21791:22017" ph="if ... end" />
+            <marker date="1488557719000" expanded="true" signature="21933:21964" ph="{ ... }" />
+            <marker date="1488557719000" expanded="true" signature="22183:22343" ph="heredoc ..." />
+            <marker date="1488557719000" expanded="true" signature="22764:22821" ph=" ... end" />
+            <marker date="1488557719000" expanded="true" signature="22933:23019" ph=" ... end" />
+            <marker date="1488557719000" expanded="true" signature="22957:23007" ph="do ... end" />
+            <marker date="1488557719000" expanded="true" signature="23121:23171" ph=" ... end" />
+            <marker date="1488557719000" expanded="true" signature="23218:23285" ph=" ... end" />
+            <marker date="1488557719000" expanded="true" signature="23325:23557" ph=" ... end" />
+            <marker date="1488557719000" expanded="true" signature="23338:23543" ph="if ... end" />
+            <marker date="1488557719000" expanded="true" signature="23606:24439" ph=" ... end" />
+            <marker date="1488557719000" expanded="true" signature="23774:24425" ph="{ ... }" />
+            <marker date="1488557719000" expanded="true" signature="23821:23833" ph=" ... end" />
+            <marker date="1488557719000" expanded="true" signature="23880:24411" ph="do ... end" />
+            <marker date="1488557719000" expanded="true" signature="23909:24393" ph="if ... end" />
+            <marker date="1488557719000" expanded="true" signature="24273:24298" ph="{ ... }" />
+            <marker date="1488557719000" expanded="true" signature="24475:26025" ph=" ... end" />
+            <marker date="1488557719000" expanded="true" signature="24484:24649" ph="##..." />
+            <marker date="1488557719000" expanded="true" signature="24680:24733" ph=" ... end" />
+            <marker date="1488557719000" expanded="true" signature="24743:24910" ph="##..." />
+            <marker date="1488557719000" expanded="true" signature="24942:24996" ph=" ... end" />
+            <marker date="1488557719000" expanded="true" signature="25006:25175" ph="##..." />
+            <marker date="1488557719000" expanded="true" signature="25208:25263" ph=" ... end" />
+            <marker date="1488557719000" expanded="true" signature="25273:25438" ph="##..." />
+            <marker date="1488557719000" expanded="true" signature="25469:25522" ph=" ... end" />
+            <marker date="1488557719000" expanded="true" signature="25532:25709" ph="##..." />
+            <marker date="1488557719000" expanded="true" signature="25743:25799" ph=" ... end" />
+            <marker date="1488557719000" expanded="true" signature="25863:26015" ph=" ... end" />
+            <marker date="1488557719000" expanded="true" signature="26033:27933" ph="##..." />
+            <marker date="1488557719000" expanded="true" signature="27954:38217" ph=" ... end" />
+            <marker date="1488557719000" expanded="true" signature="27963:29107" ph="##..." />
+            <marker date="1488557719000" expanded="true" signature="29132:30756" ph=" ... end" />
+            <marker date="1488557719000" expanded="true" signature="29314:29500" ph="unless ... end" />
+            <marker date="1488557719000" expanded="true" signature="29512:29878" ph="if ... end" />
+            <marker date="1488557719000" expanded="true" signature="29601:29705" ph="do ... end" />
+            <marker date="1488557719000" expanded="true" signature="29890:30092" ph="if ... end" />
+            <marker date="1488557719000" expanded="true" signature="30104:30219" ph="if ... end" />
+            <marker date="1488557719000" expanded="true" signature="30251:30628" ph="do ... end" />
+            <marker date="1488557719000" expanded="true" signature="30275:30479" ph="if ... end" />
+            <marker date="1488557719000" expanded="true" signature="30453:30463" ph="{ ... }" />
+            <marker date="1488557719000" expanded="true" signature="30493:30614" ph="unless ... end" />
+            <marker date="1488557719000" expanded="true" signature="30786:30959" ph="##..." />
+            <marker date="1488557719000" expanded="true" signature="31008:31485" ph=" ... end" />
+            <marker date="1488557719000" expanded="true" signature="31019:31473" ph="if ... end" />
+            <marker date="1488557719000" expanded="true" signature="31049:31204" ph="begin ... end" />
+            <marker date="1488557719000" expanded="true" signature="31450:31459" ph="{ ... }" />
+            <marker date="1488557719000" expanded="true" signature="31495:33192" ph="##..." />
+            <marker date="1488557719000" expanded="true" signature="33234:33631" ph=" ... end" />
+            <marker date="1488557719000" expanded="true" signature="33539:33547" ph="{ ... }" />
+            <marker date="1488557719000" expanded="true" signature="33549:33619" ph="do ... end" />
+            <marker date="1488557719000" expanded="true" signature="33596:33605" ph="{ ... }" />
+            <marker date="1488557719000" expanded="true" signature="33641:35794" ph="##..." />
+            <marker date="1488557719000" expanded="true" signature="35836:35903" ph=" ... end" />
+            <marker date="1488557719000" expanded="true" signature="35882:35891" ph="{ ... }" />
+            <marker date="1488557719000" expanded="true" signature="35913:36159" ph="##..." />
+            <marker date="1488557719000" expanded="true" signature="36195:36362" ph=" ... end" />
+            <marker date="1488557719000" expanded="true" signature="36425:36504" ph=" ... end" />
+            <marker date="1488557719000" expanded="true" signature="36559:36638" ph=" ... end" />
+            <marker date="1488557719000" expanded="true" signature="36683:36756" ph=" ... end" />
+            <marker date="1488557719000" expanded="true" signature="36813:36886" ph=" ... end" />
+            <marker date="1488557719000" expanded="true" signature="36935:37008" ph=" ... end" />
+            <marker date="1488557719000" expanded="true" signature="37061:37102" ph=" ... end" />
+            <marker date="1488557719000" expanded="true" signature="37151:37192" ph=" ... end" />
+            <marker date="1488557719000" expanded="true" signature="37238:37279" ph=" ... end" />
+            <marker date="1488557719000" expanded="true" signature="37328:37369" ph=" ... end" />
+            <marker date="1488557719000" expanded="true" signature="37422:37492" ph=" ... end" />
+            <marker date="1488557719000" expanded="true" signature="37546:37616" ph=" ... end" />
+            <marker date="1488557719000" expanded="true" signature="37667:37737" ph=" ... end" />
+            <marker date="1488557719000" expanded="true" signature="37786:37911" ph=" ... end" />
+            <marker date="1488557719000" expanded="true" signature="37961:38024" ph=" ... end" />
+            <marker date="1488557719000" expanded="true" signature="38074:38130" ph=" ... end" />
+            <marker date="1488557719000" expanded="true" signature="38175:38207" ph=" ... end" />
+            <marker date="1488557719000" expanded="true" signature="38225:39891" ph="##..." />
+            <marker date="1488557719000" expanded="true" signature="39914:67320" ph=" ... end" />
+            <marker date="1488557719000" expanded="true" signature="39923:40063" ph="##..." />
+            <marker date="1488557719000" expanded="true" signature="40302:42442" ph=" ... end" />
+            <marker date="1488557719000" expanded="true" signature="40429:40899" ph=" ... end" />
+            <marker date="1488557719000" expanded="true" signature="40930:41131" ph=" ... end" />
+            <marker date="1488557719000" expanded="true" signature="40943:41117" ph="if ... end" />
+            <marker date="1488557719000" expanded="true" signature="41154:41380" ph=" ... end" />
+            <marker date="1488557719000" expanded="true" signature="41167:41366" ph="if ... end" />
+            <marker date="1488557719000" expanded="true" signature="41400:41439" ph=" ... end" />
+            <marker date="1488557719000" expanded="true" signature="41461:41509" ph=" ... end" />
+            <marker date="1488557719000" expanded="true" signature="41533:41595" ph=" ... end" />
+            <marker date="1488557719000" expanded="true" signature="41647:41759" ph="##..." />
+            <marker date="1488557719000" expanded="true" signature="41789:41863" ph=" ... end" />
+            <marker date="1488557719000" expanded="true" signature="41893:41930" ph=" ... end" />
+            <marker date="1488557719000" expanded="true" signature="41999:42045" ph=" ... end" />
+            <marker date="1488557719000" expanded="true" signature="42126:42174" ph=" ... end" />
+            <marker date="1488557719000" expanded="true" signature="42202:42252" ph=" ... end" />
+            <marker date="1488557719000" expanded="true" signature="42280:42333" ph=" ... end" />
+            <marker date="1488557719000" expanded="true" signature="42357:42392" ph=" ... end" />
+            <marker date="1488557719000" expanded="true" signature="42418:42430" ph=" ... end" />
+            <marker date="1488557719000" expanded="true" signature="42475:43298" ph=" ... end" />
+            <marker date="1488557719000" expanded="true" signature="42558:42723" ph=" ... end" />
+            <marker date="1488557719000" expanded="true" signature="42754:42939" ph=" ... end" />
+            <marker date="1488557719000" expanded="true" signature="42767:42925" ph="if ... end" />
+            <marker date="1488557719000" expanded="true" signature="42961:43019" ph=" ... end" />
+            <marker date="1488557719000" expanded="true" signature="43043:43093" ph=" ... end" />
+            <marker date="1488557719000" expanded="true" signature="43275:43286" ph=" ... end" />
+            <marker date="1488557719000" expanded="true" signature="43341:43399" ph=" ... end" />
+            <marker date="1488557719000" expanded="true" signature="43409:44237" ph="##..." />
+            <marker date="1488557719000" expanded="true" signature="44278:45081" ph=" ... end" />
+            <marker date="1488557719000" expanded="true" signature="44341:44446" ph="if ... end" />
+            <marker date="1488557719000" expanded="true" signature="44486:45053" ph="do ... end" />
+            <marker date="1488557719000" expanded="true" signature="44643:45039" ph="do ... end" />
+            <marker date="1488557719000" expanded="true" signature="44767:44812" ph="do ... end" />
+            <marker date="1488557719000" expanded="true" signature="44929:44978" ph="do ... end" />
+            <marker date="1488557719000" expanded="true" signature="45091:50552" ph="##..." />
+            <marker date="1488557719000" expanded="true" signature="50594:51462" ph=" ... end" />
+            <marker date="1488557719000" expanded="true" signature="50657:50763" ph="if ... end" />
+            <marker date="1488557719000" expanded="true" signature="50804:51434" ph="do ... end" />
+            <marker date="1488557719000" expanded="true" signature="50952:51420" ph="do ... end" />
+            <marker date="1488557719000" expanded="true" signature="51083:51249" ph="do ... end" />
+            <marker date="1488557719000" expanded="true" signature="51269:51314" ph="do ... end" />
+            <marker date="1488557719000" expanded="true" signature="51472:51927" ph="##..." />
+            <marker date="1488557719000" expanded="true" signature="51950:52245" ph=" ... end" />
+            <marker date="1488557719000" expanded="true" signature="51961:52079" ph="unless ... end" />
+            <marker date="1488557719000" expanded="true" signature="52121:52233" ph="do ... end" />
+            <marker date="1488557719000" expanded="true" signature="52181:52219" ph="do ... end" />
+            <marker date="1488557719000" expanded="true" signature="52255:52698" ph="##..." />
+            <marker date="1488557719000" expanded="true" signature="52717:53143" ph=" ... end" />
+            <marker date="1488557719000" expanded="true" signature="52728:52842" ph="unless ... end" />
+            <marker date="1488557719000" expanded="true" signature="52880:53131" ph="do ... end" />
+            <marker date="1488557719000" expanded="true" signature="52895:53117" ph="if ... end" />
+            <marker date="1488557719000" expanded="true" signature="52935:53019" ph="{ ... }" />
+            <marker date="1488557719000" expanded="true" signature="52994:53003" ph="{ ... }" />
+            <marker date="1488557719000" expanded="true" signature="53092:53101" ph="{ ... }" />
+            <marker date="1488557719000" expanded="true" signature="53160:53453" ph=" ... end" />
+            <marker date="1488557719000" expanded="true" signature="53171:53282" ph="unless ... end" />
+            <marker date="1488557719000" expanded="true" signature="53317:53441" ph="do ... end" />
+            <marker date="1488557719000" expanded="true" signature="53389:53427" ph="do ... end" />
+            <marker date="1488557719000" expanded="true" signature="53473:54054" ph=" ... end" />
+            <marker date="1488557719000" expanded="true" signature="53484:53598" ph="unless ... end" />
+            <marker date="1488557719000" expanded="true" signature="53636:54042" ph="do ... end" />
+            <marker date="1488557719000" expanded="true" signature="53651:54028" ph="if ... end" />
+            <marker date="1488557719000" expanded="true" signature="53721:53871" ph="do ... end" />
+            <marker date="1488557719000" expanded="true" signature="53781:53853" ph="do ... end" />
+            <marker date="1488557719000" expanded="true" signature="53824:53833" ph="{ ... }" />
+            <marker date="1488557719000" expanded="true" signature="53944:54012" ph="do ... end" />
+            <marker date="1488557719000" expanded="true" signature="53985:53994" ph="{ ... }" />
+            <marker date="1488557719000" expanded="true" signature="54162:54279" ph=" ... end" />
+            <marker date="1488557719000" expanded="true" signature="54173:54267" ph="if ... end" />
+            <marker date="1488557719000" expanded="true" signature="54211:54220" ph="{ ... }" />
+            <marker date="1488557719000" expanded="true" signature="54300:54421" ph=" ... end" />
+            <marker date="1488557719000" expanded="true" signature="54443:54513" ph=" ... end" />
+            <marker date="1488557719000" expanded="true" signature="54523:54827" ph="##..." />
+            <marker date="1488557719000" expanded="true" signature="54866:55917" ph=" ... end" />
+            <marker date="1488557719000" expanded="true" signature="54877:55706" ph="if ... end" />
+            <marker date="1488557719000" expanded="true" signature="54973:55010" ph="{ ... }" />
+            <marker date="1488557719000" expanded="true" signature="55024:55235" ph="if ... end" />
+            <marker date="1488557719000" expanded="true" signature="55249:55545" ph="case ... end" />
+            <marker date="1488557719000" expanded="true" signature="55355:55480" ph="if ... end" />
+            <marker date="1488557719000" expanded="true" signature="55718:55905" ph="if ... end" />
+            <marker date="1488557719000" expanded="true" signature="55793:55830" ph="{ ... }" />
+            <marker date="1488557719000" expanded="true" signature="55965:56267" ph=" ... end" />
+            <marker date="1488557719000" expanded="true" signature="56076:56255" ph="if ... end" />
+            <marker date="1488557719000" expanded="true" signature="56309:56362" ph=" ... end" />
+            <marker date="1488557719000" expanded="true" signature="56475:57170" ph=" ... end" />
+            <marker date="1488557719000" expanded="true" signature="56496:57158" ph="if ... end" />
+            <marker date="1488557719000" expanded="true" signature="56545:56648" ph="{ ... }" />
+            <marker date="1488557719000" expanded="true" signature="56676:57144" ph="case ... end" />
+            <marker date="1488557719000" expanded="true" signature="56749:56852" ph="{ ... }" />
+            <marker date="1488557719000" expanded="true" signature="56901:57004" ph="{ ... }" />
+            <marker date="1488557719000" expanded="true" signature="57278:58210" ph=" ... end" />
+            <marker date="1488557719000" expanded="true" signature="57516:57675" ph="if ... end" />
+            <marker date="1488557719000" expanded="true" signature="57692:57888" ph="if ... end" />
+            <marker date="1488557719000" expanded="true" signature="58220:58753" ph="##..." />
+            <marker date="1488557719000" expanded="true" signature="58790:59315" ph=" ... end" />
+            <marker date="1488557719000" expanded="true" signature="58801:59039" ph="if ... end" />
+            <marker date="1488557719000" expanded="true" signature="59051:59303" ph="if ... end" />
+            <marker date="1488557719000" expanded="true" signature="59108:59236" ph="do ... end" />
+            <marker date="1488557719000" expanded="true" signature="59158:59220" ph="do ... end" />
+            <marker date="1488557719000" expanded="true" signature="59374:59430" ph=" ... end" />
+            <marker date="1488557719000" expanded="true" signature="59507:60440" ph=" ... end" />
+            <marker date="1488557719000" expanded="true" signature="59529:59664" ph="if ... end" />
+            <marker date="1488557719000" expanded="true" signature="59582:59622" ph="{ ... }" />
+            <marker date="1488557719000" expanded="true" signature="59678:59851" ph="if ... end" />
+            <marker date="1488557719000" expanded="true" signature="59728:59809" ph="do ... end" />
+            <marker date="1488557719000" expanded="true" signature="59865:59995" ph="if ... end" />
+            <marker date="1488557719000" expanded="true" signature="59905:59953" ph="{ ... }" />
+            <marker date="1488557719000" expanded="true" signature="60027:60145" ph="do ... end" />
+            <marker date="1488557719000" expanded="true" signature="60221:60407" ph="unless ... end" />
+            <marker date="1488557719000" expanded="true" signature="60284:60365" ph="do ... end" />
+            <marker date="1488557719000" expanded="true" signature="60485:60610" ph=" ... end" />
+            <marker date="1488557719000" expanded="true" signature="60650:60720" ph=" ... end" />
+            <marker date="1488557719000" expanded="true" signature="60765:60821" ph=" ... end" />
+            <marker date="1488557719000" expanded="true" signature="60861:60910" ph=" ... end" />
+            <marker date="1488557719000" expanded="true" signature="60957:61013" ph=" ... end" />
+            <marker date="1488557719000" expanded="true" signature="61051:61092" ph=" ... end" />
+            <marker date="1488557719000" expanded="true" signature="61130:61258" ph=" ... end" />
+            <marker date="1488557719000" expanded="true" signature="61298:61499" ph=" ... end" />
+            <marker date="1488557719000" expanded="true" signature="61424:61433" ph="{ ... }" />
+            <marker date="1488557719000" expanded="true" signature="61538:61770" ph=" ... end" />
+            <marker date="1488557719000" expanded="true" signature="61816:61989" ph=" ... end" />
+            <marker date="1488557719000" expanded="true" signature="61845:61915" ph="{ ... }" />
+            <marker date="1488557719000" expanded="true" signature="61922:61975" ph="{ ... }" />
+            <marker date="1488557719000" expanded="true" signature="62031:62139" ph=" ... end" />
+            <marker date="1488557719000" expanded="true" signature="62180:62250" ph=" ... end" />
+            <marker date="1488557719000" expanded="true" signature="62291:62392" ph=" ... end" />
+            <marker date="1488557719000" expanded="true" signature="62430:62664" ph=" ... end" />
+            <marker date="1488557719000" expanded="true" signature="62709:62950" ph=" ... end" />
+            <marker date="1488557719000" expanded="true" signature="62786:62936" ph="if ... end" />
+            <marker date="1488557719000" expanded="true" signature="62983:63059" ph=" ... end" />
+            <marker date="1488557719000" expanded="true" signature="63109:63402" ph=" ... end" />
+            <marker date="1488557719000" expanded="true" signature="63131:63253" ph="if ... end" />
+            <marker date="1488557719000" expanded="true" signature="63267:63388" ph="if ... end" />
+            <marker date="1488557719000" expanded="true" signature="63445:64420" ph=" ... end" />
+            <marker date="1488557719000" expanded="true" signature="63562:63762" ph="if ... end" />
+            <marker date="1488557719000" expanded="true" signature="63938:64406" ph="unless ... end" />
+            <marker date="1488557719000" expanded="true" signature="63976:64213" ph="unless ... end" />
+            <marker date="1488557719000" expanded="true" signature="64228:64390" ph="if ... end" />
+            <marker date="1488557719000" expanded="true" signature="64468:64867" ph=" ... end" />
+            <marker date="1488557719000" expanded="true" signature="64488:64853" ph="do ... end" />
+            <marker date="1488557719000" expanded="true" signature="64639:64761" ph="if ... end" />
+            <marker date="1488557719000" expanded="true" signature="64892:64933" ph=" ... end" />
+            <marker date="1488557719000" expanded="true" signature="64980:65131" ph=" ... end" />
+            <marker date="1488557719000" expanded="true" signature="65170:67094" ph=" ... end" />
+            <marker date="1488557719000" expanded="true" signature="65181:65330" ph="if ... end" />
+            <marker date="1488557719000" expanded="true" signature="65342:65411" ph="if ... end" />
+            <marker date="1488557719000" expanded="true" signature="65423:65551" ph="if ... end" />
+            <marker date="1488557719000" expanded="true" signature="65767:65805" ph="{ ... }" />
+            <marker date="1488557719000" expanded="true" signature="65853:65872" ph="{ ... }" />
+            <marker date="1488557719000" expanded="true" signature="65916:65924" ph="{ ... }" />
+            <marker date="1488557719000" expanded="true" signature="66084:66829" ph="do ... end" />
+            <marker date="1488557719000" expanded="true" signature="66147:66627" ph="if ... end" />
+            <marker date="1488557719000" expanded="true" signature="66227:66470" ph="heredoc ..." />
+            <marker date="1488557719000" expanded="true" signature="66875:67066" ph="do ... end" />
+            <marker date="1488557719000" expanded="true" signature="67133:67310" ph=" ... end" />
+            <marker date="1488557719000" expanded="true" signature="67328:67912" ph="##..." />
+            <marker date="1488557719000" expanded="true" signature="67934:70997" ph=" ... end" />
+            <marker date="1488557719000" expanded="true" signature="67943:70171" ph="##..." />
+            <marker date="1488557719000" expanded="true" signature="70221:70360" ph=" ... end" />
+            <marker date="1488557719000" expanded="true" signature="70252:70311" ph="{ ... }" />
+            <marker date="1488557719000" expanded="true" signature="70370:70664" ph="##..." />
+            <marker date="1488557719000" expanded="true" signature="70692:70987" ph=" ... end" />
+            <marker date="1488557719000" expanded="true" signature="70763:70975" ph="do ... end" />
+            <marker date="1488557719000" expanded="true" signature="70785:70961" ph="if ... end" />
+            <marker date="1488557719000" expanded="true" signature="71016:73059" ph=" ... end" />
+            <marker date="1488557719000" expanded="true" signature="71465:71564" ph=" ... end" />
+            <marker date="1488557719000" expanded="true" signature="71585:71630" ph=" ... end" />
+            <marker date="1488557719000" expanded="true" signature="71654:71702" ph=" ... end" />
+            <marker date="1488557719000" expanded="true" signature="71738:71804" ph=" ... end" />
+            <marker date="1488557719000" expanded="true" signature="71880:72345" ph=" ... end" />
+            <marker date="1488557719000" expanded="true" signature="71891:72333" ph="case ... end" />
+            <marker date="1488557719000" expanded="true" signature="72374:72433" ph=" ... end" />
+            <marker date="1488557719000" expanded="true" signature="72454:72484" ph=" ... end" />
+            <marker date="1488557719000" expanded="true" signature="72507:72568" ph=" ... end" />
+            <marker date="1488557719000" expanded="true" signature="72598:72655" ph=" ... end" />
+            <marker date="1488557719000" expanded="true" signature="72676:72778" ph=" ... end" />
+            <marker date="1488557719000" expanded="true" signature="72700:72730" ph="{ ... }" />
+            <marker date="1488557719000" expanded="true" signature="72824:72982" ph=" ... end" />
+            <marker date="1488557719000" expanded="true" signature="72862:72970" ph="do ... end" />
+            <marker date="1488557719000" expanded="true" signature="73001:73013" ph=" ... end" />
+            <marker date="1488557719000" expanded="true" signature="73086:73220" ph=" ... end" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/activemodel-5.0.2/lib/active_model/validations.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="229">
+          <caret line="299" column="8" lean-forward="false" selection-start-line="299" selection-start-column="8" selection-end-line="299" selection-end-column="8" />
+          <folding>
+            <marker date="1488557714000" expanded="true" signature="165:14946" ph=" ... end" />
+            <marker date="1488557714000" expanded="true" signature="169:1262" ph="##..." />
+            <marker date="1488557714000" expanded="true" signature="1283:14278" ph=" ... end" />
+            <marker date="1488557714000" expanded="true" signature="1332:1743" ph="do ... end" />
+            <marker date="1488557714000" expanded="true" signature="1716:1735" ph="{ ... }" />
+            <marker date="1488557714000" expanded="true" signature="1768:10422" ph=" ... end" />
+            <marker date="1488557714000" expanded="true" signature="1775:3344" ph="##..." />
+            <marker date="1488557714000" expanded="true" signature="3390:3477" ph=" ... end" />
+            <marker date="1488557714000" expanded="true" signature="3551:6117" ph="##..." />
+            <marker date="1488557714000" expanded="true" signature="6151:6901" ph=" ... end" />
+            <marker date="1488557714000" expanded="true" signature="6201:6577" ph="if ... end" />
+            <marker date="1488557714000" expanded="true" signature="6214:6241" ph="{ ... }" />
+            <marker date="1488557714000" expanded="true" signature="6269:6565" ph="do ... end" />
+            <marker date="1488557714000" expanded="true" signature="6288:6551" ph="unless ... end" />
+            <marker date="1488557714000" expanded="true" signature="6587:6819" ph="if ... end" />
+            <marker date="1488557714000" expanded="true" signature="6722:6807" ph="{ ... }" />
+            <marker date="1488557714000" expanded="true" signature="6909:7544" ph="##..." />
+            <marker date="1488557714000" expanded="true" signature="7565:7615" ph=" ... end" />
+            <marker date="1488557714000" expanded="true" signature="7623:9067" ph="##..." />
+            <marker date="1488557714000" expanded="true" signature="9095:9166" ph=" ... end" />
+            <marker date="1488557714000" expanded="true" signature="9174:9681" ph="##..." />
+            <marker date="1488557714000" expanded="true" signature="9718:9823" ph=" ... end" />
+            <marker date="1488557714000" expanded="true" signature="9747:9813" ph="do ... end" />
+            <marker date="1488557714000" expanded="true" signature="9831:10138" ph="##..." />
+            <marker date="1488557714000" expanded="true" signature="10177:10222" ph=" ... end" />
+            <marker date="1488557714000" expanded="true" signature="10289:10414" ph=" ... end" />
+            <marker date="1488557714000" expanded="true" signature="10365:10390" ph="{ ... }" />
+            <marker date="1488557714000" expanded="true" signature="10507:10556" ph=" ... end" />
+            <marker date="1488557714000" expanded="true" signature="10562:10982" ph="##..." />
+            <marker date="1488557714000" expanded="true" signature="10997:11040" ph=" ... end" />
+            <marker date="1488557714000" expanded="true" signature="11046:11929" ph="##..." />
+            <marker date="1488557714000" expanded="true" signature="11959:12145" ph=" ... end" />
+            <marker date="1488557714000" expanded="true" signature="12188:13047" ph="##..." />
+            <marker date="1488557714000" expanded="true" signature="13079:13110" ph=" ... end" />
+            <marker date="1488557714000" expanded="true" signature="13116:13425" ph="##..." />
+            <marker date="1488557714000" expanded="true" signature="13458:13514" ph=" ... end" />
+            <marker date="1488557714000" expanded="true" signature="13520:14040" ph="##..." />
+            <marker date="1488557714000" expanded="true" signature="14135:14193" ph=" ... end" />
+            <marker date="1488557714000" expanded="true" signature="14225:14272" ph=" ... end" />
+            <marker date="1488557714000" expanded="true" signature="14282:14623" ph="##..." />
+            <marker date="1488557714000" expanded="true" signature="14647:14942" ph=" ... end" />
+            <marker date="1488557714000" expanded="true" signature="14713:14936" ph=" ... end" />
+            <marker date="1488557714000" expanded="true" signature="15003:15026" ph="{ ... }" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/actionpack-5.0.2/lib/action_controller/metal/rendering.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="33" column="8" lean-forward="false" selection-start-line="33" selection-start-column="8" selection-end-line="33" selection-end-column="8" />
+          <folding>
+            <marker date="1488557719000" expanded="true" signature="73:3783" ph=" ... end" />
+            <marker date="1488557719000" expanded="true" signature="92:3779" ph=" ... end" />
+            <marker date="1488557719000" expanded="true" signature="215:625" ph=" ... end" />
+            <marker date="1488557719000" expanded="true" signature="320:421" ph="##..." />
+            <marker date="1488557719000" expanded="true" signature="486:535" ph=" ... end" />
+            <marker date="1488557719000" expanded="true" signature="563:617" ph=" ... end" />
+            <marker date="1488557719000" expanded="true" signature="732:817" ph=" ... end" />
+            <marker date="1488557719000" expanded="true" signature="919:1022" ph=" ... end" />
+            <marker date="1488557719000" expanded="true" signature="1128:1303" ph=" ... end" />
+            <marker date="1488557719000" expanded="true" signature="1156:1295" ph="if ... end" />
+            <marker date="1488557719000" expanded="true" signature="1225:1244" ph="{ ... }" />
+            <marker date="1488557719000" expanded="true" signature="1341:1402" ph=" ... end" />
+            <marker date="1488557719000" expanded="true" signature="1455:1589" ph=" ... end" />
+            <marker date="1488557719000" expanded="true" signature="1494:1570" ph="do ... end" />
+            <marker date="1488557719000" expanded="true" signature="1621:1672" ph=" ... end" />
+            <marker date="1488557719000" expanded="true" signature="1716:1816" ph=" ... end" />
+            <marker date="1488557719000" expanded="true" signature="1723:1808" ph="if ... end" />
+            <marker date="1488557719000" expanded="true" signature="1945:2043" ph=" ... end" />
+            <marker date="1488557719000" expanded="true" signature="2126:3140" ph=" ... end" />
+            <marker date="1488557719000" expanded="true" signature="2174:2677" ph="if ... end" />
+            <marker date="1488557719000" expanded="true" signature="2250:2651" ph="heredoc ..." />
+            <marker date="1488557719000" expanded="true" signature="2685:2775" ph="if ... end" />
+            <marker date="1488557719000" expanded="true" signature="2783:3013" ph="if ... end" />
+            <marker date="1488557719000" expanded="true" signature="3021:3119" ph="if ... end" />
+            <marker date="1488557719000" expanded="true" signature="3174:3379" ph=" ... end" />
+            <marker date="1488557719000" expanded="true" signature="3213:3371" ph="do ... end" />
+            <marker date="1488557719000" expanded="true" signature="3233:3361" ph="if ... end" />
+            <marker date="1488557719000" expanded="true" signature="3495:3773" ph=" ... end" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/routes.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding>
+            <marker date="1488823137000" expanded="true" signature="30:276" ph="do ... end" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models/user.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding>
+            <marker date="1488572786000" expanded="true" signature="10:131" ph=" ... end" />
+            <marker date="1488572786000" expanded="true" signature="50:88" ph="{ ... }" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/migrate/20170303053509_create_users.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="16" lean-forward="false" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+          <folding>
+            <marker date="1488519309000" expanded="true" signature="17:204" ph=" ... end" />
+            <marker date="1488519309000" expanded="true" signature="61:200" ph=" ... end" />
+            <marker date="1488519309000" expanded="true" signature="86:194" ph="do ... end" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/application_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="5" lean-forward="true" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/application.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="28" lean-forward="true" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
+          <folding>
+            <marker date="1488519209000" expanded="true" signature="358:471" ph="##..." />
+            <marker date="1488519209000" expanded="true" signature="517:1038" ph=" ... end" />
+            <marker date="1488519209000" expanded="true" signature="537:1034" ph=" ... end" />
+            <marker date="1488519209000" expanded="true" signature="563:1001" ph="##..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gemfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="63" lean-forward="true" selection-start-line="8" selection-start-column="63" selection-end-line="8" selection-end-column="63" />
+          <folding>
+            <marker date="1488834539000" expanded="true" signature="51:182" ph="do ... end" />
+            <marker date="1488834539000" expanded="true" signature="428:870" ph="##..." />
+            <marker date="1488834539000" expanded="true" signature="898:1019" ph="do ... end" />
+            <marker date="1488834539000" expanded="true" signature="1040:1261" ph="do ... end" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/users_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="37" column="6" lean-forward="false" selection-start-line="37" selection-start-column="6" selection-end-line="37" selection-end-column="58" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/serializers/user_serializer.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/serializers/usersignup_serializer.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="3" lean-forward="true" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
