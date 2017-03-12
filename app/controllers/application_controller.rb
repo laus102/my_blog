@@ -14,7 +14,7 @@ class ApplicationController < ActionController::API
     end
   end
 
- before_filter :authenticate_user_from_token, except: [:token, :sign_up]
+  before_action :authenticate_user_from_token, except: [:token, :create]
 
   private
 
