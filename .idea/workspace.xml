@@ -2,22 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c7d7e7d5-b00b-41b7-9c75-314aad3a69ae" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/users/create.json.jbuilder" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/users/index.json.jbuilder" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/users/show.json.jbuilder" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/users/update.json.jbuilder" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/serializers/comment_serializer.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/serializers/post_serializer.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/serializers/user_serializer.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/serializers/usersignup_serializer.rb" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.generators" afterPath="$PROJECT_DIR$/.idea/.generators" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/my_blog.iml" afterPath="$PROJECT_DIR$/.idea/my_blog.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile" afterPath="$PROJECT_DIR$/Gemfile" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile.lock" afterPath="$PROJECT_DIR$/Gemfile.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/controllers/application_controller.rb" afterPath="$PROJECT_DIR$/app/controllers/application_controller.rb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/controllers/users_controller.rb" afterPath="$PROJECT_DIR$/app/controllers/users_controller.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/routes.rb" afterPath="$PROJECT_DIR$/config/routes.rb" />
     </list>
     <ignored path="$PROJECT_DIR$/.bundle/" />
     <ignored path="$PROJECT_DIR$/components/" />
@@ -35,36 +22,18 @@
   <component name="FileEditorManager">
     <splitter split-orientation="horizontal" split-proportion="0.5">
       <split-first>
-        <splitter split-orientation="vertical" split-proportion="0.5">
-          <split-first>
-            <leaf>
-              <file leaf-file-name="update.json.jbuilder" pinned="false" current-in-tab="true">
-                <entry file="file://$PROJECT_DIR$/app/views/users/update.json.jbuilder">
-                  <provider selected="true" editor-type-id="text-editor">
-                    <state relative-caret-position="45">
-                      <caret line="3" column="18" lean-forward="true" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
-                      <folding />
-                    </state>
-                  </provider>
-                </entry>
-              </file>
-            </leaf>
-          </split-first>
-          <split-second>
-            <leaf>
-              <file leaf-file-name="show.json.jbuilder" pinned="false" current-in-tab="true">
-                <entry file="file://$PROJECT_DIR$/app/views/users/show.json.jbuilder">
-                  <provider selected="true" editor-type-id="text-editor">
-                    <state relative-caret-position="60">
-                      <caret line="4" column="3" lean-forward="true" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
-                      <folding />
-                    </state>
-                  </provider>
-                </entry>
-              </file>
-            </leaf>
-          </split-second>
-        </splitter>
+        <leaf>
+          <file leaf-file-name="users_controller.rb" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/app/controllers/users_controller.rb">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="270">
+                  <caret line="18" column="85" lean-forward="false" selection-start-line="18" selection-start-column="85" selection-end-line="18" selection-end-column="85" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
       </split-first>
       <split-second>
         <splitter split-orientation="vertical" split-proportion="0.5">
@@ -73,8 +42,8 @@
               <file leaf-file-name="application_controller.rb" pinned="false" current-in-tab="true">
                 <entry file="file://$PROJECT_DIR$/app/controllers/application_controller.rb">
                   <provider selected="true" editor-type-id="text-editor">
-                    <state relative-caret-position="183">
-                      <caret line="16" column="72" lean-forward="false" selection-start-line="16" selection-start-column="72" selection-end-line="16" selection-end-column="72" />
+                    <state relative-caret-position="339">
+                      <caret line="23" column="7" lean-forward="false" selection-start-line="23" selection-start-column="7" selection-end-line="23" selection-end-column="7" />
                       <folding />
                     </state>
                   </provider>
@@ -87,8 +56,8 @@
               <file leaf-file-name="routes.rb" pinned="false" current-in-tab="true">
                 <entry file="file://$PROJECT_DIR$/config/routes.rb">
                   <provider selected="true" editor-type-id="text-editor">
-                    <state relative-caret-position="105">
-                      <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+                    <state relative-caret-position="90">
+                      <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
                       <folding />
                     </state>
                   </provider>
@@ -137,8 +106,8 @@
         <option value="$PROJECT_DIR$/app/views/users/create.json.jbuilder" />
         <option value="$PROJECT_DIR$/config/routes.rb" />
         <option value="$PROJECT_DIR$/app/controllers/application_controller.rb" />
-        <option value="$PROJECT_DIR$/app/controllers/users_controller.rb" />
         <option value="$PROJECT_DIR$/app/views/users/update.json.jbuilder" />
+        <option value="$PROJECT_DIR$/app/controllers/users_controller.rb" />
       </list>
     </option>
   </component>
@@ -150,9 +119,10 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="23" />
-    <option name="width" value="1440" />
-    <option name="height" value="873" />
+    <option name="width" value="1680" />
+    <option name="height" value="1023" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -168,6 +138,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="RailsProjectView" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -190,15 +162,53 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="db" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="my_blog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="my_blog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="db" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="migrate" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="my_blog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="my_blog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="config" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="my_blog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="my_blog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="users" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -216,7 +226,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
+              <option name="myItemId" value="models" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -231,13 +241,15 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="controllers" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="RailsProjectView" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -245,7 +257,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.ruby.settings.RubyActiveModuleSdkConfigurable" />
-    <property name="SearchEverywhereHistoryKey" value="app&#9;FILE&#9;file:///Users/Brendan/Documents/Programming/rails_projects/my_blog/app/controllers/application_controller.rb&#10;use&#9;FILE&#9;file:///Users/Brendan/Documents/Programming/rails_projects/my_blog/db/migrate/20170303053509_create_users.rb&#10;user&#9;FILE&#9;file:///Users/Brendan/Documents/Programming/rails_projects/my_blog/app/models/user.rb&#10;in&#9;FILE&#9;file:///Users/Brendan/Documents/Programming/rails_projects/my_blog/app/views/users/index.json.jbuilder&#10;rout&#9;FILE&#9;file:///Users/Brendan/Documents/Programming/rails_projects/my_blog/config/routes.rb&#10;gem&#9;FILE&#9;file:///Users/Brendan/Documents/Programming/rails_projects/my_blog/Gemfile&#10;spec_&#9;RUN_CONFIGURATION&#9;spec: my_blog&#10;ro&#9;FILE&#9;file:///Users/Brendan/Documents/Programming/rails_projects/my_blog/config/routes.rb&#10;s&#9;FILE&#9;file:///Users/Brendan/Documents/Programming/rails_projects/my_blog/app/controllers/users_controller.rb&#10;ser&#9;FILE&#9;file:///Users/Brendan/Documents/Programming/rails_projects/my_blog/app/serializers/user_serializer.rb&#10;users&#9;FILE&#9;file:///Users/Brendan/Documents/Programming/rails_projects/my_blog/app/serializers/user_serializer.rb&#10;token&#9;null&#9;null&#10;inde&#9;FILE&#9;file:///Users/Brendan/Documents/Programming/rails_projects/my_blog/app/views/users/index.json.builder&#10;controll&#9;FILE&#9;file:///Users/Brendan/Documents/Programming/rails_projects/my_blog/app/controllers/users_controller.rb&#10;users/in&#9;FILE&#9;file:///Users/Brendan/Documents/Programming/rails_projects/my_blog/app/views/users/index.json.builder&#10;routes&#9;FILE&#9;file:///Users/Brendan/Documents/Programming/rails_projects/my_blog/config/routes.rb&#10;config/app&#9;FILE&#9;file:///Users/bjl/Documents/Programming/rails/my_blog/config/application.rb&#10;model/user&#9;FILE&#9;file:///Users/bjl/Documents/Programming/rails/my_blog/app/models/user.rb&#10;user_con&#9;FILE&#9;file:///Users/bjl/Documents/Programming/rails/my_blog/app/controllers/users_controller.rb&#10;models/user&#9;FILE&#9;file:///Users/bjl/Documents/Programming/rails/my_blog/app/models/user.rb&#10;control&#9;FILE&#9;file:///Users/bjl/Documents/Programming/rails/my_blog/app/controllers/application_controller.rb&#10;seria&#9;FILE&#9;file:///Users/bjl/Documents/Programming/rails/my_blog/app/serializers/user_serializer.rb&#10;seri&#9;FILE&#9;file:///Users/bjl/Documents/Programming/rails/my_blog/app/serializers/user_serializer.rb&#10;application_contro&#9;FILE&#9;file:///Users/bjl/Documents/Programming/rails/my_blog/app/controllers/application_controller.rb&#10;user.rb&#9;FILE&#9;file:///Users/bjl/Documents/Programming/rails/my_blog/app/models/user.rb&#10;models/&#9;FILE&#9;file:///Users/bjl/Documents/Programming/rails/my_blog/app/models&#10;console&#9;ACTION&#9;IdeScriptingConsole&#10;appl&#9;FILE&#9;file:///Users/bjl/Documents/Programming/rails/my_blog/app/controllers/application_controller.rb&#10;test/&#9;FILE&#9;file:///Users/bjl/Documents/Programming/rails/my_blog/config/environments/test.rb&#10;applic&#9;FILE&#9;file:///Users/bjl/Documents/Programming/rails/my_blog/app/controllers/application_controller.rb&#10;routes.&#9;FILE&#9;file:///Users/bjl/Documents/Programming/rails/my_blog/config/routes.rb" />
+    <property name="SearchEverywhereHistoryKey" value="user&#9;FILE&#9;file:///Users/bjl/Documents/Programming/rails/my_blog/app/controllers/users_controller.rb&#10;app&#9;FILE&#9;file:///Users/Brendan/Documents/Programming/rails_projects/my_blog/app/controllers/application_controller.rb&#10;use&#9;FILE&#9;file:///Users/Brendan/Documents/Programming/rails_projects/my_blog/db/migrate/20170303053509_create_users.rb&#10;in&#9;FILE&#9;file:///Users/Brendan/Documents/Programming/rails_projects/my_blog/app/views/users/index.json.jbuilder&#10;rout&#9;FILE&#9;file:///Users/Brendan/Documents/Programming/rails_projects/my_blog/config/routes.rb&#10;gem&#9;FILE&#9;file:///Users/Brendan/Documents/Programming/rails_projects/my_blog/Gemfile&#10;spec_&#9;RUN_CONFIGURATION&#9;spec: my_blog&#10;ro&#9;FILE&#9;file:///Users/Brendan/Documents/Programming/rails_projects/my_blog/config/routes.rb&#10;s&#9;FILE&#9;file:///Users/Brendan/Documents/Programming/rails_projects/my_blog/app/controllers/users_controller.rb&#10;ser&#9;FILE&#9;file:///Users/Brendan/Documents/Programming/rails_projects/my_blog/app/serializers/user_serializer.rb&#10;users&#9;FILE&#9;file:///Users/Brendan/Documents/Programming/rails_projects/my_blog/app/serializers/user_serializer.rb&#10;token&#9;null&#9;null&#10;inde&#9;FILE&#9;file:///Users/Brendan/Documents/Programming/rails_projects/my_blog/app/views/users/index.json.builder&#10;controll&#9;FILE&#9;file:///Users/Brendan/Documents/Programming/rails_projects/my_blog/app/controllers/users_controller.rb&#10;users/in&#9;FILE&#9;file:///Users/Brendan/Documents/Programming/rails_projects/my_blog/app/views/users/index.json.builder&#10;routes&#9;FILE&#9;file:///Users/Brendan/Documents/Programming/rails_projects/my_blog/config/routes.rb&#10;config/app&#9;FILE&#9;file:///Users/bjl/Documents/Programming/rails/my_blog/config/application.rb&#10;model/user&#9;FILE&#9;file:///Users/bjl/Documents/Programming/rails/my_blog/app/models/user.rb&#10;user_con&#9;FILE&#9;file:///Users/bjl/Documents/Programming/rails/my_blog/app/controllers/users_controller.rb&#10;models/user&#9;FILE&#9;file:///Users/bjl/Documents/Programming/rails/my_blog/app/models/user.rb&#10;control&#9;FILE&#9;file:///Users/bjl/Documents/Programming/rails/my_blog/app/controllers/application_controller.rb&#10;seria&#9;FILE&#9;file:///Users/bjl/Documents/Programming/rails/my_blog/app/serializers/user_serializer.rb&#10;seri&#9;FILE&#9;file:///Users/bjl/Documents/Programming/rails/my_blog/app/serializers/user_serializer.rb&#10;application_contro&#9;FILE&#9;file:///Users/bjl/Documents/Programming/rails/my_blog/app/controllers/application_controller.rb&#10;user.rb&#9;FILE&#9;file:///Users/bjl/Documents/Programming/rails/my_blog/app/models/user.rb&#10;models/&#9;FILE&#9;file:///Users/bjl/Documents/Programming/rails/my_blog/app/models&#10;console&#9;ACTION&#9;IdeScriptingConsole&#10;appl&#9;FILE&#9;file:///Users/bjl/Documents/Programming/rails/my_blog/app/controllers/application_controller.rb&#10;test/&#9;FILE&#9;file:///Users/bjl/Documents/Programming/rails/my_blog/config/environments/test.rb&#10;applic&#9;FILE&#9;file:///Users/bjl/Documents/Programming/rails/my_blog/app/controllers/application_controller.rb&#10;routes.&#9;FILE&#9;file:///Users/bjl/Documents/Programming/rails/my_blog/config/routes.rb" />
     <property name="node.js.path.for.package.jscs" value="project" />
     <property name="node.js.selected.package.jscs" value="" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -491,30 +503,40 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35841000" />
+    <option name="totallyTimeSpent" value="38180000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="873" extended-state="6" />
+    <frame x="0" y="23" width="1680" height="1023" extended-state="6" />
     <editor active="true" />
     <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15773809" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32891566" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20326865" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15763889" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32891566" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32891566" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20326865" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15763889" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32891566" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -530,27 +552,127 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/controllers/users_controller.rb">
+    <entry file="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/actionpack-5.0.2/lib/action_controller/metal/rendering.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="33" column="8" lean-forward="false" selection-start-line="33" selection-start-column="8" selection-end-line="33" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/application.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="28" lean-forward="true" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/serializers/usersignup_serializer.rb" />
+    <entry file="file://$PROJECT_DIR$/app/models/user.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/migrate/20170303053542_create_posts.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/migrate/20170303053609_create_comments.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/migrate/20170303053509_create_users.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="6" lean-forward="false" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/activesupport-5.0.2/lib/active_support/core_ext/object/json.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="341">
+          <caret line="129" column="15" lean-forward="false" selection-start-line="129" selection-start-column="15" selection-end-line="129" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/serializers/user_serializer.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/posts_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1489360738000" expanded="true" signature="21:1373" ph=" ... end" />
-            <marker date="1489360738000" expanded="true" signature="109:184" ph="##..." />
-            <marker date="1489360738000" expanded="true" signature="196:224" ph=" ... end" />
-            <marker date="1489360738000" expanded="true" signature="228:305" ph="##..." />
-            <marker date="1489360738000" expanded="true" signature="316:357" ph=" ... end" />
-            <marker date="1489360738000" expanded="true" signature="361:437" ph="##..." />
-            <marker date="1489360738000" expanded="true" signature="450:639" ph=" ... end" />
-            <marker date="1489360738000" expanded="true" signature="546:633" ph="if ... end" />
-            <marker date="1489360738000" expanded="true" signature="644:727" ph="##..." />
-            <marker date="1489360738000" expanded="true" signature="740:884" ph=" ... end" />
-            <marker date="1489360738000" expanded="true" signature="745:878" ph="if ... end" />
-            <marker date="1489360738000" expanded="true" signature="888:968" ph="##..." />
-            <marker date="1489360738000" expanded="true" signature="982:1006" ph=" ... end" />
-            <marker date="1489360738000" expanded="true" signature="1108:1153" ph=" ... end" />
-            <marker date="1489360738000" expanded="true" signature="1233:1369" ph=" ... end" />
+            <marker date="1488519342000" expanded="true" signature="21:1012" ph=" ... end" />
+            <marker date="1488519342000" expanded="true" signature="133:186" ph=" ... end" />
+            <marker date="1488519342000" expanded="true" signature="215:244" ph=" ... end" />
+            <marker date="1488519342000" expanded="true" signature="274:473" ph=" ... end" />
+            <marker date="1488519342000" expanded="true" signature="314:467" ph="if ... end" />
+            <marker date="1488519342000" expanded="true" signature="510:654" ph=" ... end" />
+            <marker date="1488519342000" expanded="true" signature="515:648" ph="if ... end" />
+            <marker date="1488519342000" expanded="true" signature="689:713" ph=" ... end" />
+            <marker date="1488519342000" expanded="true" signature="815:860" ph=" ... end" />
+            <marker date="1488519342000" expanded="true" signature="940:1008" ph=" ... end" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/routes.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/application_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="339">
+          <caret line="23" column="7" lean-forward="true" selection-start-line="23" selection-start-column="7" selection-end-line="23" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/users_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="575">
+          <caret line="49" column="40" lean-forward="false" selection-start-line="49" selection-start-column="40" selection-end-line="49" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gemfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="35" lean-forward="true" selection-start-line="26" selection-start-column="35" selection-end-line="26" selection-end-column="35" />
+          <folding>
+            <marker date="1489413392000" expanded="true" signature="51:182" ph="do ... end" />
+            <marker date="1489413392000" expanded="true" signature="504:870" ph="##..." />
+            <marker date="1489413392000" expanded="true" signature="898:1019" ph="do ... end" />
+            <marker date="1489413392000" expanded="true" signature="1040:1261" ph="do ... end" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/users_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -558,34 +680,11 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="555">
           <caret line="37" column="6" lean-forward="false" selection-start-line="37" selection-start-column="6" selection-end-line="37" selection-end-column="58" />
-          <folding>
-            <marker date="1489360738000" expanded="true" signature="21:1373" ph=" ... end" />
-            <marker date="1489360738000" expanded="true" signature="109:184" ph="##..." />
-            <marker date="1489360738000" expanded="true" signature="196:224" ph=" ... end" />
-            <marker date="1489360738000" expanded="true" signature="228:305" ph="##..." />
-            <marker date="1489360738000" expanded="true" signature="316:357" ph=" ... end" />
-            <marker date="1489360738000" expanded="true" signature="361:437" ph="##..." />
-            <marker date="1489360738000" expanded="true" signature="450:639" ph=" ... end" />
-            <marker date="1489360738000" expanded="true" signature="546:633" ph="if ... end" />
-            <marker date="1489360738000" expanded="true" signature="644:727" ph="##..." />
-            <marker date="1489360738000" expanded="true" signature="740:884" ph=" ... end" />
-            <marker date="1489360738000" expanded="true" signature="745:878" ph="if ... end" />
-            <marker date="1489360738000" expanded="true" signature="888:968" ph="##..." />
-            <marker date="1489360738000" expanded="true" signature="982:1006" ph=" ... end" />
-            <marker date="1489360738000" expanded="true" signature="1108:1153" ph=" ... end" />
-            <marker date="1489360738000" expanded="true" signature="1233:1369" ph=" ... end" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/serializers/usersignup_serializer.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="3" lean-forward="true" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
           <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/serializers/usersignup_serializer.rb" />
     <entry file="file://$PROJECT_DIR$/app/controllers/application_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
@@ -594,35 +693,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/serializers/user_serializer.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/app/serializers/user_serializer.rb" />
     <entry file="file://$PROJECT_DIR$/app/controllers/users_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1489360738000" expanded="true" signature="21:1373" ph=" ... end" />
-            <marker date="1489360738000" expanded="true" signature="109:184" ph="##..." />
-            <marker date="1489360738000" expanded="true" signature="196:224" ph=" ... end" />
-            <marker date="1489360738000" expanded="true" signature="228:305" ph="##..." />
-            <marker date="1489360738000" expanded="true" signature="316:357" ph=" ... end" />
-            <marker date="1489360738000" expanded="true" signature="361:437" ph="##..." />
-            <marker date="1489360738000" expanded="true" signature="450:639" ph=" ... end" />
-            <marker date="1489360738000" expanded="true" signature="546:633" ph="if ... end" />
-            <marker date="1489360738000" expanded="true" signature="644:727" ph="##..." />
-            <marker date="1489360738000" expanded="true" signature="740:884" ph=" ... end" />
-            <marker date="1489360738000" expanded="true" signature="745:878" ph="if ... end" />
-            <marker date="1489360738000" expanded="true" signature="888:968" ph="##..." />
-            <marker date="1489360738000" expanded="true" signature="982:1006" ph=" ... end" />
-            <marker date="1489360738000" expanded="true" signature="1108:1153" ph=" ... end" />
-            <marker date="1489360738000" expanded="true" signature="1233:1369" ph=" ... end" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -637,13 +713,7 @@
     <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/ide/ide-scripting.groovy" />
     <entry file="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/securerandom.rb" />
     <entry file="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/activesupport-5.0.2/lib/active_support/core_ext/securerandom.rb" />
-    <entry file="file://$PROJECT_DIR$/app/serializers/comment_serializer.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="16" lean-forward="true" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/app/serializers/comment_serializer.rb" />
     <entry file="file://$PROJECT_DIR$/db/seeds.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -662,7 +732,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -670,7 +739,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -687,131 +755,41 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/serializers/usersignup_serializer.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/app/serializers/usersignup_serializer.rb" />
     <entry file="file://$PROJECT_DIR$/app/views/layouts/mailer.html.erb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1488852105000" expanded="true" signature="21:227" ph="..." />
-            <marker date="1488852105000" expanded="true" signature="30:182" ph="..." />
-            <marker date="1488852105000" expanded="true" signature="116:172" ph="..." />
-            <marker date="1488852105000" expanded="true" signature="192:219" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/serializers/user_serializer.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/app/serializers/user_serializer.rb" />
     <entry file="file://$PROJECT_DIR$/bin/rails">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1488852105000" expanded="true" signature="20:142" ph="begin ... end" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Gemfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="98">
-          <caret line="11" column="13" lean-forward="true" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/jbuilder-2.6.3/lib/jbuilder.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="63" column="6" lean-forward="false" selection-start-line="63" selection-start-column="6" selection-end-line="63" selection-end-column="6" />
+        <state relative-caret-position="300">
+          <caret line="20" column="26" lean-forward="true" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
           <folding>
-            <marker date="1489358789000" expanded="true" signature="166:8599" ph=" ... end" />
-            <marker date="1489358789000" expanded="true" signature="248:475" ph=" ... end" />
-            <marker date="1489358789000" expanded="true" signature="321:369" ph="{ ... }" />
-            <marker date="1489358789000" expanded="true" signature="584:621" ph=" ... end" />
-            <marker date="1489358789000" expanded="true" signature="735:1819" ph=" ... end" />
-            <marker date="1489358789000" expanded="true" signature="749:1785" ph="if ... end" />
-            <marker date="1489358789000" expanded="true" signature="780:1069" ph="if ... end" />
-            <marker date="1489358789000" expanded="true" signature="807:902" ph="if ... end" />
-            <marker date="1489358789000" expanded="true" signature="917:946" ph="{ ... }" />
-            <marker date="1489358789000" expanded="true" signature="966:1019" ph="##..." />
-            <marker date="1489358789000" expanded="true" signature="1045:1059" ph="{ ... }" />
-            <marker date="1489358789000" expanded="true" signature="1098:1331" ph="if ... end" />
-            <marker date="1489358789000" expanded="true" signature="1130:1224" ph="if ... end" />
-            <marker date="1489358789000" expanded="true" signature="1270:1307" ph="##..." />
-            <marker date="1489358789000" expanded="true" signature="1371:1541" ph="##..." />
-            <marker date="1489358789000" expanded="true" signature="1554:1577" ph="{ ... }" />
-            <marker date="1489358789000" expanded="true" signature="1593:1728" ph="##..." />
-            <marker date="1489358789000" expanded="true" signature="1752:1777" ph="{ ... }" />
-            <marker date="1489358789000" expanded="true" signature="1848:1949" ph=" ... end" />
-            <marker date="1489358789000" expanded="true" signature="1853:1943" ph="if ... end" />
-            <marker date="1489358789000" expanded="true" signature="1953:2703" ph="##..." />
-            <marker date="1489358789000" expanded="true" signature="2728:2779" ph=" ... end" />
-            <marker date="1489358789000" expanded="true" signature="2878:2930" ph=" ... end" />
-            <marker date="1489358789000" expanded="true" signature="2934:3298" ph="##..." />
-            <marker date="1489358789000" expanded="true" signature="3330:3360" ph=" ... end" />
-            <marker date="1489358789000" expanded="true" signature="3462:3493" ph=" ... end" />
-            <marker date="1489358789000" expanded="true" signature="3497:3968" ph="##..." />
-            <marker date="1489358789000" expanded="true" signature="3981:4079" ph=" ... end" />
-            <marker date="1489358789000" expanded="true" signature="4059:4073" ph="{ ... }" />
-            <marker date="1489358789000" expanded="true" signature="4083:5057" ph="##..." />
-            <marker date="1489358789000" expanded="true" signature="5100:5386" ph=" ... end" />
-            <marker date="1489358789000" expanded="true" signature="5113:5362" ph="if ... end" />
-            <marker date="1489358789000" expanded="true" signature="5280:5323" ph="{ ... }" />
-            <marker date="1489358789000" expanded="true" signature="5390:5903" ph="##..." />
-            <marker date="1489358789000" expanded="true" signature="5939:6083" ph=" ... end" />
-            <marker date="1489358789000" expanded="true" signature="5944:6077" ph="if ... end" />
-            <marker date="1489358789000" expanded="true" signature="6116:6236" ph=" ... end" />
-            <marker date="1489358789000" expanded="true" signature="6121:6230" ph="if ... end" />
-            <marker date="1489358789000" expanded="true" signature="6274:6302" ph=" ... end" />
-            <marker date="1489358789000" expanded="true" signature="6402:6424" ph=" ... end" />
-            <marker date="1489358789000" expanded="true" signature="6500:6566" ph=" ... end" />
-            <marker date="1489358789000" expanded="true" signature="6622:6662" ph=" ... end" />
-            <marker date="1489358789000" expanded="true" signature="6721:6790" ph=" ... end" />
-            <marker date="1489358789000" expanded="true" signature="6741:6784" ph="{ ... }" />
-            <marker date="1489358789000" expanded="true" signature="6840:6915" ph=" ... end" />
-            <marker date="1489358789000" expanded="true" signature="6860:6909" ph="{ ... }" />
-            <marker date="1489358789000" expanded="true" signature="6940:7154" ph=" ... end" />
-            <marker date="1489358789000" expanded="true" signature="7090:7104" ph="{ ... }" />
-            <marker date="1489358789000" expanded="true" signature="7199:7610" ph=" ... end" />
-            <marker date="1489358789000" expanded="true" signature="7204:7604" ph="if ... end" />
-            <marker date="1489358789000" expanded="true" signature="7627:7692" ph=" ... end" />
-            <marker date="1489358789000" expanded="true" signature="7722:7963" ph=" ... end" />
-            <marker date="1489358789000" expanded="true" signature="7998:8084" ph=" ... end" />
-            <marker date="1489358789000" expanded="true" signature="8018:8068" ph="do ... end" />
-            <marker date="1489358789000" expanded="true" signature="8043:8060" ph="{ ... }" />
-            <marker date="1489358789000" expanded="true" signature="8098:8303" ph=" ... end" />
-            <marker date="1489358789000" expanded="true" signature="8334:8439" ph=" ... end" />
-            <marker date="1489358789000" expanded="true" signature="8405:8433" ph="{ ... }" />
-            <marker date="1489358789000" expanded="true" signature="8473:8498" ph=" ... end" />
-            <marker date="1489358789000" expanded="true" signature="8543:8595" ph=" ... end" />
-            <marker date="1489358789000" expanded="true" signature="8560:8589" ph="{ ... }" />
+            <marker date="1489413392000" expanded="true" signature="51:182" ph="do ... end" />
+            <marker date="1489413392000" expanded="true" signature="504:870" ph="##..." />
+            <marker date="1489413392000" expanded="true" signature="898:1019" ph="do ... end" />
+            <marker date="1489413392000" expanded="true" signature="1040:1261" ph="do ... end" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/jbuilder-2.6.3/lib/jbuilder.rb" />
     <entry file="file://$PROJECT_DIR$/app/models/user.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-          <folding>
-            <marker date="1488852105000" expanded="true" signature="10:131" ph=" ... end" />
-            <marker date="1488852105000" expanded="true" signature="50:88" ph="{ ... }" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -819,9 +797,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" column="3" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
-          <folding>
-            <marker date="1489359644000" expanded="true" signature="33:120" ph="do ... end" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -829,7 +804,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="3" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -837,51 +811,23 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding>
-            <marker date="1488852105000" expanded="true" signature="17:204" ph=" ... end" />
-            <marker date="1488852105000" expanded="true" signature="61:200" ph=" ... end" />
-            <marker date="1488852105000" expanded="true" signature="86:194" ph="do ... end" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/controllers/application_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="183">
-          <caret line="16" column="72" lean-forward="false" selection-start-line="16" selection-start-column="72" selection-end-line="16" selection-end-column="72" />
+        <state relative-caret-position="339">
+          <caret line="23" column="7" lean-forward="false" selection-start-line="23" selection-start-column="7" selection-end-line="23" selection-end-column="7" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/config/routes.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        <state relative-caret-position="90">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/controllers/users_controller.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="23" column="7" lean-forward="true" selection-start-line="23" selection-start-column="7" selection-end-line="23" selection-end-column="7" />
-          <folding>
-            <marker date="1489360738000" expanded="true" signature="21:1373" ph=" ... end" />
-            <marker date="1489360738000" expanded="true" signature="109:184" ph="##..." />
-            <marker date="1489360738000" expanded="true" signature="196:224" ph=" ... end" />
-            <marker date="1489360738000" expanded="true" signature="228:305" ph="##..." />
-            <marker date="1489360738000" expanded="true" signature="316:357" ph=" ... end" />
-            <marker date="1489360738000" expanded="true" signature="361:437" ph="##..." />
-            <marker date="1489360738000" expanded="true" signature="450:639" ph=" ... end" />
-            <marker date="1489360738000" expanded="true" signature="546:633" ph="if ... end" />
-            <marker date="1489360738000" expanded="true" signature="644:727" ph="##..." />
-            <marker date="1489360738000" expanded="true" signature="740:884" ph=" ... end" />
-            <marker date="1489360738000" expanded="true" signature="745:878" ph="if ... end" />
-            <marker date="1489360738000" expanded="true" signature="888:968" ph="##..." />
-            <marker date="1489360738000" expanded="true" signature="982:1006" ph=" ... end" />
-            <marker date="1489360738000" expanded="true" signature="1108:1153" ph=" ... end" />
-            <marker date="1489360738000" expanded="true" signature="1233:1369" ph=" ... end" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -889,7 +835,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" column="3" lean-forward="true" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -897,6 +842,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
           <caret line="3" column="18" lean-forward="true" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/users_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="85" lean-forward="false" selection-start-line="18" selection-start-column="85" selection-end-line="18" selection-end-column="85" />
           <folding />
         </state>
       </provider>
