@@ -16,6 +16,7 @@ class UsersController < ApplicationController
   # POST /users
   ############################################################
   def create
+    # in order to create a user, you must supply an email and password in the payload
     params.require(:email)
     params.require(:password)
     @user = User.new(user_params)
